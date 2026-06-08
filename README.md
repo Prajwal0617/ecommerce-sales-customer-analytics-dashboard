@@ -60,7 +60,7 @@ Performed:
 - Consumer segment produced highest profit
 - Sales increased significantly during Q4
 
-## Dashboard Preview(https://github.com/user-attachments/assets/97d91ff7-89e9-4f05-a146-f170234b8475)
+## Dashboard Preview(https://github.com/user-attachments/assets/21c346e4-e4e4-4718-9e98-e53c25a35b7e)
 
 ## Project Files
 
